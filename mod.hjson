@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "WQK\'s mod"
+displayName: "WQK s mod"
 
 #the internal name of your mod
 name: "Mod-of-WQK"
@@ -8,10 +8,10 @@ name: "Mod-of-WQK"
 author: "WQK"
 
 #the fully qualified main class of the mod
-main: "Mod-of-WQK.ExampleJavaMod"
+main: "WQKMod.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "A WQK\'s mod"
+description: "A WQK s mod"
 
 #the mod version
 version: 1.0
